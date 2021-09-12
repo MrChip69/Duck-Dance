@@ -4,6 +4,7 @@ Trata de un pequeño ejecutable, que al agregarlo, cada ves que se ejecuta Windo
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┣━━━━━━━━┅┅┫INSTRUCCIONES:┣┅┅━━━━━━━━┫
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
 primero que todo, hay que ejecutar el archivo "agregar.bat" , que sera el encargado de hacer que el archivo se ejecute al iniciar Windows (Esto copiara el acceso directo de "sus.cmd").
 
 La cura para cuando se ejecute el programa, seria poner en la consola ("cmd.exe") los siguientes comandos:
